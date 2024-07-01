@@ -1,4 +1,4 @@
 # firstDemo
 This is my first Git Repository.
 <br>
-auther- priyanka Bisht
+auther- priyanka(apna college)
